@@ -83,3 +83,4 @@ nodemon.json
 /build
 
 node_modules
+/some

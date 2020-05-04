@@ -80,5 +80,6 @@ yarn-error.log*
 .env.production.local# See
 nodemon.json
 
-/client
 /build
+
+node_modules

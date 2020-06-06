@@ -10,7 +10,7 @@
     "@types/jsonwebtoken": "^8.3.9",
     "@types/mongoose": "^5.7.14",
     "apollo-server": "^2.12.0",
-    "apollo-server-express": "^2.11.0",
+    "apollo-server-express": "^2.14.2",
     "axios": "^0.19.2",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
